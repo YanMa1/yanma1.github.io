@@ -15,6 +15,8 @@ My primary research interests are in the fields of computer vision, computer gra
 
 Publication
 ======
+**Ruyi Lian**, Bingyao Huang, Liguo Wang, Qun Liu, Yuewei Lin, and Haibin Ling. **End-to-end orientation estimation from 2D cryo-EM images**. Acta Crystallographica Section D - Structural Biology, 2022.
+
 Bingyao Huang, **Ruyi Lian**, Dimitris Samaras, and Haibin Ling. **Modeling Deep Learning Based Privacy Attacks on Physical Mail.** Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2021.
 
 Miscellaneous
