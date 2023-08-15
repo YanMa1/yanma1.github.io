@@ -15,7 +15,7 @@ My primary research interests are in the fields of computer vision, computer gra
 
 Publication
 ======
-**Ruyi Lian** and Haibin Ling. **CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network**. ICCV 2023. [[code](https://github.com/RuyiLian/CheckerPose)] 
+**Ruyi Lian** and Haibin Ling. **CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network**. ICCV 2023. [[arXiv](https://arxiv.org/abs/2303.16874)] [[code](https://github.com/RuyiLian/CheckerPose)] 
 
 **Ruyi Lian**, Bingyao Huang, Liguo Wang, Qun Liu, Yuewei Lin, and Haibin Ling. **End-to-end orientation estimation from 2D cryo-EM images**. Acta Crystallographica Section D - Structural Biology, 2022.
 
