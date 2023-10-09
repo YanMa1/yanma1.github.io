@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently a fifth year PhD student in [Department of Computer Science](https://www.cs.stonybrook.edu), [Stony Brook University](https://www.stonybrook.edu), advised by [Prof. Haibin Ling](https://www3.cs.stonybrook.edu/~hling). On June 2019, I obtained B.Sc. degree at [School of Mathematical Sciences](http://math.ustc.edu.cn), [University of Science and Technology of China](http://www.ustc.edu.cn), majoring in applied mathematics. 
 
-My primary research interests are in the fields of computer vision, computer graphics, computational photography, and robotics. My current research focuses on object pose estimation from natural images and cryo-EM images.
+My primary research interests are in the fields of computer vision, computer graphics, robotics, and computational biology. My current research focuses on object pose estimation from natural images and cryo-EM images.
 
 Publication
 ======
