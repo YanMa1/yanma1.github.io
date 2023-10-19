@@ -1,21 +1,21 @@
 ---
 permalink: /
-title: "Ruyi Lian"
+title: "Yan Ma"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+I am a Ph.D. candidate in computer science at [Stony Brook University](https://www.stonybrook.edu), advised by [Prof. Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/). I obtained my B.S. in computer science from [Binghamton University](https://www.binghamton.edu/) and a B.S. in applied mathematics from [Renmin University of China](https://en.ruc.edu.cn/).
 
-I am currently a fifth year PhD student in [Department of Computer Science](https://www.cs.stonybrook.edu), [Stony Brook University](https://www.stonybrook.edu), advised by [Prof. Haibin Ling](https://www3.cs.stonybrook.edu/~hling). On June 2019, I obtained B.Sc. degree at [School of Mathematical Sciences](http://math.ustc.edu.cn), [University of Science and Technology of China](http://www.ustc.edu.cn), majoring in applied mathematics. 
+My research interests focus on Human-Computer Interaction, particularly in human performance modeling, VR/XR interaction techniques, and human-centered generative AI. Currently, I'm working on developing LLMs-based interaction techniques to improve user performance and experience.
 
-My primary research interests are in the fields of computer vision, computer graphics, robotics, and computational biology. My current research focuses on object pose estimation from natural images and cryo-EM images.
 
 Publication
 ======
-**Ruyi Lian** and Haibin Ling. **CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network**. ICCV 2023. [[arXiv](https://arxiv.org/abs/2303.16874)] [[code](https://github.com/RuyiLian/CheckerPose)] 
+**Ruyi Lian** and Haibin Ling. **CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network**. ICCV 2023. [[arXiv](https://arxiv.org/abs/2303.16874)] [[code](https://github.com/RuyiLian/CheckerPose)]
 
 **Ruyi Lian**, Bingyao Huang, Liguo Wang, Qun Liu, Yuewei Lin, and Haibin Ling. **End-to-end orientation estimation from 2D cryo-EM images**. Acta Crystallographica Section D - Structural Biology, 2022.
 
