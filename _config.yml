@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yan Ma"
   avatar           : "profile.JPG"
-  bio              : "PhD Student in Department of Computer Science"
+  bio              : "PhD Candidate in the Department of Computer Science"
   location         : "Stony Brook University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=uHYolbsAAAAJ"
-  email            : "rulian@cs.stonybrook.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=j_OvH4sAAAAJ"
+  email            : "yanma1@cs.stonybrook.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :  "ruyi.lian.art"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ruyi-lian-73131016b"
-  orcid            :
+  linkedin         : "yan-ma-6ba03b1a7"
+  orcid            : "0000-0001-8264-3103"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Ruyi_Lian"
+  twitter          :
   vine             :
   weibo            :
   xing             :
