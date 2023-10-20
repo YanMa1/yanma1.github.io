@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=j_OvH4sAAAAJ"
   email            : "yanma1@cs.stonybrook.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yan-Ma-108"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,11 +99,11 @@ author:
   github           : "YanMa1"
   google_plus      :
   keybase          :
-  instagram        :  "ruyi.lian.art"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yan-ma-6ba03b1a7"
-  orcid            : "0000-0001-8264-3103"
+  orcid            : "https://orcid.org/0000-0001-8264-3103"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

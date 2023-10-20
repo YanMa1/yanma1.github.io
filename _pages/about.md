@@ -40,4 +40,4 @@ Reviewer for CHI 2024
 
 Miscellaneous
 ======
-I'm a proud dog mom and have the cutest Maltese-mix puppy Tian Ma. Please check his photos on my instagram. Hope he can make your day woof :) 
+I'm a proud dog mom and have the cutest Maltese-mix puppy Tian Ma. Please check his photos on my [instagram](https://www.instagram.com/goodboytiantianma/). Hope he can make your day woof :) 
