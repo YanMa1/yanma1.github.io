@@ -13,7 +13,7 @@ I am a Ph.D. candidate in computer science at [Stony Brook University](https://w
 Publications
 ======
 <ol>
-  <li>Jeremy Chu, Dongsheng An, <b>Yan Ma</b>, Wenzhe Cui, Shumin Zhai, Xianfeng David Gu, and Xiaojun Bi. <b>WordGesture-GAN: Modeling Word-Gesture Movement with Generative Adversarial Network. The ACM CHI Conference on Human Factors in Computing Systems</b> (<b>CHI</b>), 2023.</li>
+  <li>Jeremy Chu, Dongsheng An, <b>Yan Ma</b>, Wenzhe Cui, Shumin Zhai, Xianfeng David Gu, and Xiaojun Bi. <b>WordGesture-GAN: Modeling Word-Gesture Movement with Generative Adversarial Network</b> . The ACM CHI Conference on Human Factors in Computing Systems (<b>CHI</b>), 2023.</li>
 
   <li>Sophia Gu$^1$, <b>Yan Ma$^1$</b>, Zhi Li, Xiangmin Fan, Feng Tian, and Xiaojun Bi. <b>Using deep learning to detect motor impairment in early Parkinson’s disease from touchscreen typing</b>. Graphics Interface (<b>GI</b>), 2022. <i>Co-first author, co-supervised Sophia</i>.</li>
 
