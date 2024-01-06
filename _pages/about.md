@@ -40,8 +40,4 @@ TA for CSE323: Human-Computer Interaction (Spring 2021)
 
 Academic Services
 ======
-Reviewer for CHI 2024
-
-#Miscellaneous
-#======
-#I'm a proud dog mom and have the cutest Maltese-mix puppy Tian Ma. Please check his photos on my #[instagram](https://www.instagram.com/goodboytiantianma/). Hope he can make your day woof :)
+Reviewer for CHI 2024, IJHCS
