@@ -10,21 +10,30 @@ redirect_from:
 
 I am a Ph.D. candidate in computer science at [Stony Brook University](https://www.stonybrook.edu), advised by [Prof. Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/). I obtained my B.S. in computer science from [Binghamton University](https://www.binghamton.edu/) and a B.S. in applied mathematics from [Renmin University of China](https://en.ruc.edu.cn/). My research interests focus on Human-Computer Interaction, particularly in human performance modeling, VR/XR interaction techniques, and human-centered generative AI. Currently, I'm working on developing LLMs-based interaction techniques to improve user performance and experience.
 
-Publications
-======
-<ol>
-  <li> Jeremy Chu, <b>Yan Ma</b>, Shumin Zhai, Xianfeng David Gu, and Xiaojun Bi. <b>TouchType-GAN: Modeling Touch Typing with Generative Adversarial Network</b>. The ACM Symposium on User Interface Software and Technology (<b>UIST</b>), 2023.</li>
+## 📄 Publications  
 
-  <li>Jeremy Chu, Dongsheng An, <b>Yan Ma</b>, Wenzhe Cui, Shumin Zhai, Xianfeng David Gu, and Xiaojun Bi. <b>WordGesture-GAN: Modeling Word-Gesture Movement with Generative Adversarial Network</b> . The ACM CHI Conference on Human Factors in Computing Systems (<b>CHI</b>), 2023.</li>
+### 2023  
+📌 **[TouchType-GAN: Modeling Touch Typing with Generative Adversarial Network](https://dl.acm.org/doi/10.1145/XXXXXX)**  
+**Jeremy Chu**, **Yan Ma**, Shumin Zhai, Xianfeng David Gu, and Xiaojun Bi  
+📝 *ACM UIST 2023*  
+![TouchType-GAN](path_to_image.jpg)  
 
-  <li>Sophia Gu$^1$, <b>Yan Ma$^1$</b>, Zhi Li, Xiangmin Fan, Feng Tian, and Xiaojun Bi. <b>Using deep learning to detect motor impairment in early Parkinson’s disease from touchscreen typing</b>. Graphics Interface (<b>GI</b>), 2022. <i>Co-first author, co-supervised Sophia</i>.</li>
+📌 **[WordGesture-GAN: Modeling Word-Gesture Movement with Generative Adversarial Network](https://dl.acm.org/doi/10.1145/XXXXXX)**  
+**Jeremy Chu**, Dongsheng An, **Yan Ma**, Wenzhe Cui, Shumin Zhai, Xianfeng David Gu, and Xiaojun Bi  
+📝 *ACM CHI 2023*  
+![WordGesture-GAN](path_to_image.jpg)  
 
-  <li>Zhi Li, Maozheng Zhao, Dibyendu Das, Hang Zhao, <b>Yan Ma</b>, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, IV Ramakrishnan, and Xiaojun Bi. <b>Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens</b>. The ACM CHI Conference on Human Factors in Computing Systems (<b>CHI</b>), 2022.</li>
+### 2022  
+📌 **[Using Deep Learning to Detect Motor Impairment in Early Parkinson’s Disease from Touchscreen Typing](https://dl.acm.org/doi/10.1145/XXXXXX)**  
+**Sophia Gu$^1$**, **Yan Ma$^1$**, Zhi Li, Xiangmin Fan, Feng Tian, and Xiaojun Bi (*Co-first author, co-supervised Sophia*)  
+📝 *Graphics Interface (GI) 2022*  
+![Parkinson's Detection](path_to_image.jpg)  
 
-  <li><b>Yan Ma</b>, Shumin Zhai, IV Ramakrishnan, and Xiaojun Bi. <b>Modeling touch point distribution with rotational dual gaussian model</b>. The ACM Symposium on User Interface Software and Technology (<b>UIST</b>), 2021.</li>
+📌 **[Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens](https://dl.acm.org/doi/10.1145/XXXXXX)**  
+Zhi Li, Maozheng Zhao, Dibyendu Das, Hang Zhao, **Yan Ma**, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, IV Ramakrishnan, and Xiaojun Bi  
+📝 *ACM CHI 2022*  
+![Target Selection](path_to_image.jpg)  
 
-  <li>Zilai Li, <b>Yan Ma</b>, and Yaobin Ou. <b>Global strong solutions to 1-D vacuum free boundary problem for compressible Navier–Stokes equations with variable viscosity and thermal conductivity</b>. Journal of Mathematical Analysis and Applications (JMAA), 2019.</li>
-</ol>
 
 Awards
 ======
