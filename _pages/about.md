@@ -71,8 +71,8 @@ I am a Ph.D. candidate in Computer Science at [Stony Brook University](https://w
   <img src="images/dlparkinson.png" width="150" height="100" style="margin-right: 15px;">
   <div>
     <b>Using Deep Learning to Detect Motor Impairment in Early Parkinson’s Disease from Touchscreen Typing.</b><br>
-    Sophia Gu<sup>$^*$</sup>, <b>Yan Ma<sup>$^*$</sup><sup>†</sup></b>, Zhi Li, Xiangmin Fan, Feng Tian, and Xiaojun Bi$^+$.<br>
-    <a href="https://graphicsinterface.org/proceedings/gi2022/gi2022-21/">📄</a> @ <i>GI 2022</i>,  <b><sup>$^*$</sup> Co-first author, <sup>†</sup> co-supervised Sophia</b>
+    Sophia Gu<sup>*</sup>, <b>Yan Ma<sup>*</sup><sup>†</sup></b>, Zhi Li, Xiangmin Fan, Feng Tian, and Xiaojun Bi<sup>†</sup>.<br>
+    <a href="https://graphicsinterface.org/proceedings/gi2022/gi2022-21/">📄</a> @ <i>GI 2022</i>, <b><sup>*</sup> Co-first author, <sup>†</sup> co-supervised Sophia</b>
   </div>
 </div>
 
@@ -121,7 +121,9 @@ I am a Ph.D. candidate in Computer Science at [Stony Brook University](https://w
 ## Academic Services  
 
  - **Conference Reviewer**:
+
   CHI, UIST, CSCW, IEEE VR, IMWUT, IUI, MobileHCI, ICWSM, DIS, IMX, IDC, CUI, SUI, ISS
 
  - **Journal Reviewer**:
+
   IJHCS
