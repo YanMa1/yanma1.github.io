@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in computer science at [Stony Brook University](https://www.stonybrook.edu), advised by [Prof. Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/). I obtained my B.S. in computer science from [Binghamton University](https://www.binghamton.edu/) and a B.S. in applied mathematics from [Renmin University of China](https://en.ruc.edu.cn/). My research interests focus on Human-Computer Interaction, particularly in human performance modeling, VR/XR interaction techniques, and human-centered generative AI. Currently, I'm working on developing LLMs-based interaction techniques to improve user performance and experience.
+I am a Ph.D. candidate in Computer Science at [Stony Brook University](https://www.stonybrook.edu), where I am advised by [Prof. Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/). I obtained my B.S. in Computer Science from [Binghamton University](https://www.binghamton.edu/) and a B.S. in Applied Mathematics from [Renmin University of China](https://en.ruc.edu.cn/). My research interests lie in Human-Computer Interaction, with a focus on AI-powered input technologies, human performance modeling, and VR/XR interaction techniques. Currently, I am working on developing LLM-based interaction methods to enhance user performance and experience.
 
 ---
 
 ## Publications  
 
-### 2025
+<!-- ### 2025 -->
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/flexible.png" width="150" height="100" style="margin-right: 15px;">
@@ -44,7 +44,7 @@ I am a Ph.D. candidate in computer science at [Stony Brook University](https://w
   </div>
 </div>
 
-### 2023
+<!-- ### 2023 -->
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/touchtypegan.png" width="150" height="100" style="margin-right: 15px;">
@@ -65,17 +65,16 @@ I am a Ph.D. candidate in computer science at [Stony Brook University](https://w
   </div>
 </div>
 
-### 2022
+<!-- ### 2022 -->
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/dlparkinson.png" width="150" height="100" style="margin-right: 15px;">
   <div>
     <b>Using Deep Learning to Detect Motor Impairment in Early Parkinson’s Disease from Touchscreen Typing.</b><br>
-    Sophia Gu$^*$, <b>Yan Ma$^*+$</b>, Zhi Li, Xiangmin Fan, Feng Tian, and Xiaojun Bi$^+$.<br>
-    <a href="https://graphicsinterface.org/proceedings/gi2022/gi2022-21/">📄</a> @ <i>GI 2022</i>, <b>$^*$ Co-first author, $^+$ co-supervised Sophia</b>
+    Sophia Gu<sup>$^*$</sup>, <b>Yan Ma<sup>$^*$</sup><sup>†</sup></b>, Zhi Li, Xiangmin Fan, Feng Tian, and Xiaojun Bi$^+$.<br>
+    <a href="https://graphicsinterface.org/proceedings/gi2022/gi2022-21/">📄</a> @ <i>GI 2022</i>,  <b><sup>$^*$</sup> Co-first author, <sup>†</sup> co-supervised Sophia</b>
   </div>
 </div>
-
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -87,7 +86,7 @@ I am a Ph.D. candidate in computer science at [Stony Brook University](https://w
   </div>
 </div>
 
-### 2021
+<!-- ### 2021 -->
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/rdgm.png" width="150" height="100" style="margin-right: 15px;">
@@ -98,7 +97,7 @@ I am a Ph.D. candidate in computer science at [Stony Brook University](https://w
   </div>
 </div>
 
-### 2019
+<!-- ### 2019 -->
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/math.png" width="150" height="100" style="margin-right: 15px;">
@@ -113,16 +112,16 @@ I am a Ph.D. candidate in computer science at [Stony Brook University](https://w
 
 ## Teaching  
 
-- CSE303: Introduction to the Theory of Computation – Teaching Assistant (Fall 2019, Spring 2020)
-- CSE548: Analysis of Algorithms (Graduate Level) – Teaching Assistant (Fall 2021)
-- CSE323: Human-Computer Interaction – Teaching Assistant (Spring 2021, Spring 2025)
+- **CSE303: Introduction to the Theory of Computation** – Teaching Assistant (Fall 2019, Spring 2020)
+- **CSE548: Analysis of Algorithms** (Graduate Level) – Teaching Assistant (Fall 2021)
+- **CSE323: Human-Computer Interaction** – Teaching Assistant (Spring 2021, Spring 2025)
 
 ---
 
 ## Academic Services  
 
-### Conference Reviewer
+ - **Conference Reviewer**:
   CHI, UIST, CSCW, IEEE VR, IMWUT, IUI, MobileHCI, ICWSM, DIS, IMX, IDC, CUI, SUI, ISS
 
-### Journal Reviewer
+ - **Journal Reviewer**:
   IJHCS
