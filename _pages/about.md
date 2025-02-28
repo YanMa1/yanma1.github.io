@@ -40,7 +40,7 @@ I am a Ph.D. candidate in Computer Science at [Stony Brook University](https://w
   <div>
     <b>LLM-powered Text Entry in Virtual Reality.</b><br>
     <b>Yan Ma</b>, Tony Li, Zhi Li, and Xiaojun Bi<br>
-    <a href="TBD">[TBD]</a> @ <i>IEEE VR 2025</i>, Research Demo
+    <a href="TBD">[TBD] (Research Demo)</a> @ <i>IEEE VR 2025</i>
   </div>
 </div>
 
