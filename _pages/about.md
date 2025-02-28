@@ -9,6 +9,8 @@ redirect_from:
 
 I am a Ph.D. candidate in Computer Science at [Stony Brook University](https://www.stonybrook.edu), where I am advised by [Prof. Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/). I obtained my B.S. in Computer Science from [Binghamton University](https://www.binghamton.edu/) and a B.S. in Applied Mathematics from [Renmin University of China](https://en.ruc.edu.cn/). My research interests lie in Human-Computer Interaction, with a focus on AI-powered input technologies, human performance modeling, and VR/XR interaction techniques. Currently, I am working on developing LLM-based interaction methods to enhance user performance and experience.
 
+I will be graduating in 2026 and am currently seeking a faculty position for either **Spring or Fall 2026**. Please feel free to contact me at: yanma1 AT cs DOT stonybrook DOT edu.
+
 ---
 
 ## Publications  
