@@ -61,7 +61,7 @@ I am a Ph.D. candidate in Computer Science at [Stony Brook University](https://w
   <div>
     <b>WordGesture-GAN: Modeling Word-Gesture Movement with Generative Adversarial Network.</b><br>
     Jeremy Chu, Dongsheng An, <b>Yan Ma</b>, Wenzhe Cui, Shumin Zhai, Xianfeng David Gu, and Xiaojun Bi<br>
-    <a href="https://dl.acm.org/doi/10.1145/3544548.3581279">📄</a> @ <i>ACM CHI 2023</i> 🎖 Best Paper Honorable Mention Award
+    <a href="https://dl.acm.org/doi/10.1145/3544548.3581279">📄</a> @ <i>ACM CHI 2023</i> 🎖 <b>Best Paper Honorable Mention Award</b>
   </div>
 </div>
 
@@ -118,12 +118,11 @@ I am a Ph.D. candidate in Computer Science at [Stony Brook University](https://w
 
 ---
 
-## Academic Services  
+## Academic Services
 
- - **Conference Reviewer**:
-
+- **Conference Reviewer**:  
   CHI, UIST, CSCW, IEEE VR, IMWUT, IUI, MobileHCI, ICWSM, DIS, IMX, IDC, CUI, SUI, ISS
 
- - **Journal Reviewer**:
-
+- **Journal Reviewer**:  
   IJHCS
+
