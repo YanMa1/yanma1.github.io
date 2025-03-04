@@ -42,7 +42,7 @@ I will be graduating in 2026 and am currently seeking a faculty position for eit
   <div>
     <b>LLM-powered Text Entry in Virtual Reality.</b><br>
     <b>Yan Ma</b>, Tony Li, Zhi Li, and Xiaojun Bi<br>
-    <a href="TBD">[Research Demo]</a> @ <i>IEEE VR 2025</i>
+    <a href="TBD">[Research Demo]</a> @ <i>IEEE VR Abstracts and Workshops 2025</i>
   </div>
 </div>
 
