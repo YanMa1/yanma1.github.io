@@ -115,7 +115,7 @@ I will be graduating in 2026 and am currently seeking a faculty position for eit
 ## Teaching  
 
 - **CSE303: Introduction to the Theory of Computation** – Teaching Assistant (Fall 2019, Spring 2020)
-- **CSE548: Analysis of Algorithms** (Graduate Level) – Teaching Assistant (Fall 2021)
+- **CSE548: Analysis of Algorithms** (Graduate Level) – Teaching Assistant (Fall 2020)
 - **CSE323: Human-Computer Interaction** – Teaching Assistant (Spring 2021, Spring 2025)
 
 ---
