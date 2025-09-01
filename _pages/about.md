@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science at [Stony Brook University](https://www.stonybrook.edu), where I am advised by [Prof. Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/). I obtained my B.S. in Computer Science from [Binghamton University](https://www.binghamton.edu/) and a B.S. in Applied Mathematics from [Renmin University of China](https://en.ruc.edu.cn/). My research interests lie in Human-Computer Interaction, with a focus on AI-powered input technologies, human performance modeling, accessibility, and VR/XR interaction techniques. Currently, I am working on developing LLM-based interaction methods to enhance user performance and experience.
+I am a tenure-track Assistant Professor of Computer Science at Kean University. I earned my Ph.D. in Computer Science from [Stony Brook University](https://www.stonybrook.edu), where I was advised by [Prof. Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/). I obtained my B.S. in Computer Science from [Binghamton University](https://www.binghamton.edu/) and a B.S. in Mathematics from [Renmin University of China](https://en.ruc.edu.cn/). My research interests lie in Human-Computer Interaction, with a focus on AI-powered input technologies, human performance modeling, accessibility, and VR/XR interaction techniques. Currently, I am working on developing LLM-based interaction methods to enhance user performance and experience.
 
-I will be graduating soon and am currently seeking a faculty position. You can find more details in my [CV](../files/cv.pdf). Please feel free to contact me at: yanma1 AT cs DOT stonybrook DOT edu.
 
 ---
 
@@ -114,9 +113,15 @@ I will be graduating soon and am currently seeking a faculty position. You can f
 
 ## Teaching  
 
-- **CSE303: Introduction to the Theory of Computation** – Teaching Assistant (Fall 2019, Spring 2020)
-- **CSE548: Analysis of Algorithms** (Graduate Level) – Teaching Assistant (Fall 2020)
-- **CSE323: Human-Computer Interaction** – Teaching Assistant (Spring 2021, Spring 2025)
+- **Instructor**:
+- CPS2231: Computer Programming – Fall 2025
+- CPS3440: Analysis of Algorithms – Fall 2025
+
+- **Teaching Assistant**: 
+
+- CSE303: Introduction to the Theory of Computation – Fall 2019, Spring 2020
+- CSE548: Analysis of Algorithms (Graduate Level) – Fall 2020
+- CSE323: Human-Computer Interaction – Spring 2021, Spring 2025
 
 ---
 
