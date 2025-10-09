@@ -9,7 +9,7 @@ redirect_from:
 
 I am a tenure-track Assistant Professor of Computer Science at Kean University. I earned my Ph.D. in Computer Science from [Stony Brook University](https://www.stonybrook.edu), where I was advised by [Prof. Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/). I obtained my B.S. in Computer Science from [Binghamton University](https://www.binghamton.edu/) and a B.S. in Mathematics from [Renmin University of China](https://en.ruc.edu.cn/). My research interests lie in Human-Computer Interaction and Artificial Intelligence, with a focus on AI-powered input technologies, human performance modeling, accessibility, and VR/XR interaction techniques. Currently, I am working on developing LLM-based interaction methods to enhance user performance and experience.
 
-You can find more details in my [CV](../files/cv.pdf). Please feel free to contact me at: yama AT kean DOT edu.
+You can find more details in my [CV](../files/cv.pdf). Please feel free to contact me at: yan DOT ma AT kean DOT edu.
 
 ---
 
@@ -22,17 +22,25 @@ You can find more details in my [CV](../files/cv.pdf). Please feel free to conta
   <div>
     <b>LLM Powered Text Entry Decoding and Flexible Typing on Smartphones.</b><br>
     <b>Yan Ma</b>, Dan Zhang, IV Ramakrishnan, and Xiaojun Bi<br>
-    <a href="TBD">[TBD]</a> @ <i>ACM CHI 2025</i>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3706598.3714314">📄</a> @ <i>ACM CHI 2025</i>
   </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="images/braille.png" width="150" height="100" style="margin-right: 15px;">
+  <div>
+    <b>Enabling Auto-Correction on Soft Braille Keyboard.</b><br>
+    Dan Zhang, <b>Yan Ma</b>, Glenn Dausch, William H Seiple, David Xianfeng Gu, IV Ramakrishnan, Xiaojun Bi<br>
+    <a href="https://dl.acm.org/doi/full/10.1145/3746059.3747699">📄</a> @ <i>ACM UIST 2025</i>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="images/ringspell.png" width="150" height="100" style="margin-right: 15px;">
   <div>
     <b>SpellRing: Recognizing Continuous Fingerspelling in American Sign Language using a Ring.</b><br>
     Hyunchul Lim, Nam Anh Dang, Dylan Lee, Tianhong Catherine Yu, Jane Lu, Franklin Mingzhe Li, Yiqi Jin, <b>Yan Ma</b>, Xiaojun Bi, Francois Guimbretiere, Cheng Zhang<br>
-    <a href="TBD">[TBD]</a> @ <i>ACM CHI 2025</i>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3706598.3713721">📄</a> @ <i>ACM CHI 2025</i>
   </div>
 </div>
 
@@ -42,7 +50,7 @@ You can find more details in my [CV](../files/cv.pdf). Please feel free to conta
   <div>
     <b>LLM-powered Text Entry in Virtual Reality.</b><br>
     <b>Yan Ma</b>, Tony Li, Zhi Li, and Xiaojun Bi<br>
-    <a href="TBD">[Research Demo]</a> @ <i>IEEE VR Abstracts and Workshops 2025</i>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10972846">[Research Demo]</a> @ <i>IEEE VR Abstracts and Workshops 2025</i>
   </div>
 </div>
 
