@@ -50,7 +50,7 @@ You can find more details in my [CV](../files/cv.pdf). Please feel free to conta
   <div>
     <b>LLM-powered Text Entry in Virtual Reality.</b><br>
     <b>Yan Ma</b>, Tony Li, Zhi Li, and Xiaojun Bi<br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10972846">[Research Demo]</a> @ <i>IEEE VR Abstracts and Workshops 2025</i>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10972846">📄</a> @ <i>IEEE VR Abstracts and Workshops 2025</i>
   </div>
 </div>
 
