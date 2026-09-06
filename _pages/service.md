@@ -17,5 +17,5 @@ author_profile: true
   - 2024 — ACM CHI, ACM CSCW, ACM CUI (Special Recognition for Outstanding Review), ACM IDC, ACM IMX, ACM ISS, ACM SUI, ACM UIST
 
 - **Journal Reviewer**:
-  - 2023–2026 — International Journal of Human–Computer Studies (IJHCS), a Q1 journal
-  - 2026 — International Journal of Human–Computer Interaction (IJHCI), a Q1 journal
+  - 2023–2026 — International Journal of Human–Computer Studies (IJHCS)
+  - 2026 — International Journal of Human–Computer Interaction (IJHCI)

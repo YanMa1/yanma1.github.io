@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Lab"
-    url: /lab/
-
   - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Service"
+  - title: "Academic Service"
     url: /service/
+
+  - title: "Lab"
+    url: /lab/
 
   # - title: "Talks"
   #   url: /talks/
