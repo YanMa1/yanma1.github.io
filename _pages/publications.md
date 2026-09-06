@@ -8,6 +8,17 @@ author_profile: true
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a></u>.
 {% endif %}
 
+<!-- ### 2026 -->
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/keysense.png" width="150" height="100" style="margin-right: 15px;">
+  <div>
+    <b>KeySense: LLM-Powered Hands-Down, Ten-Finger Typing on Commodity Touchscreens.</b><br>
+    Tony Li, <b>Yan Ma</b>, Zhuojun Li, Chun Yu, IV Ramakrishnan, and Xiaojun Bi<br>
+    <a href="https://dl.acm.org/doi/full/10.1145/3772318.3790964">📄</a> @ <i>ACM CHI 2026</i>
+  </div>
+</div>
+
 <!-- ### 2025 -->
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
